@@ -22,11 +22,11 @@ This repository contains a project focused on analyzing the sentiment of social 
   + **Histogram :** Illustrates the frequency distribution of sentiment scores, providing insight into the range of sentiment polarity.
  
 ## Libraries Used
-+ **pandas** for data handling and manipulation
-+ **re** for regular expression operations in text cleaning
-+ **google-cloud-language** for accessing the Google Natural Language API
-+ **langdetect** for detecting the language of each tweet
-+ **matplotlib** for data visualization
++ `pandas` for data handling and manipulation
++ `re` for regular expression operations in text cleaning
++ `google-cloud-language` for accessing the Google Natural Language API
++ `langdetect` for detecting the language of each tweet
++ `matplotlib` for data visualization
 
 ## Usage
 1. **Data Cleaning :**
